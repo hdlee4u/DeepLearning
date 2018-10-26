@@ -1,6 +1,6 @@
 # 패키지 설치
 # install.packages("prob")
-library("prob")
+# library("prob")
 
 #동전 1회, 3회 던지기
 tosscoin(1)
