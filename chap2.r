@@ -1,5 +1,5 @@
 # 패키지 설치
-install.packages("prob")
+# install.packages("prob")
 library("prob")
 
 #동전 1회, 3회 던지기
