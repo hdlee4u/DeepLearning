@@ -7,7 +7,7 @@ print(tosscoin(1))
 print(tosscoin(3))
 
 #주사위 1회 던지기
-print((rolldie(1))
+print(rolldie(1))
 
 ## 추출방법에 따른 표본공간
 
